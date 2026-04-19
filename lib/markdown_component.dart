@@ -814,7 +814,7 @@ class TableMd extends BlockMd {
                           color: (entry.key == 0)
                               ? Theme.of(context)
                                   .colorScheme
-                                  .surfaceContainerHighest
+                                  .surfaceVariant
                               : null,
                         )
                       : null,
